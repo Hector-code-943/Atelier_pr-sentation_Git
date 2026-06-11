@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/regions-20180101.cpg
+data/regions-20180101.dbf
+data/regions-20180101.prj
+data/regions-20180101.shp
+data/regions-20180101.shx
+data/regions-20180101.txt
